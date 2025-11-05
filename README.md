@@ -5,14 +5,23 @@ Players can test their knowledge by answering multiple-choice questions and get 
 
 🚀 Features
 
+
 🎯 Multiple-choice quiz questions
+
 💡 Instant feedback on answers
+
 🧾 Final score display
+
 📱 Fully responsive design
+
 🖼️ Easily Scalable
+
 
 🛠️ Technologies Used
 
+
 HTML5 – Structure of the game
+
 CSS3 – Styling and layout
+
 JavaScript (ES6) – Game logic 
